@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @habrockc
 - 👀 I’m interested in ... automating workflows, writing algorithms to unique business challenges (primarily oil and gas), and working with spatial data.
-- 🌱 I’m currently learning ... deeper computer science fundamentals such (i.e. ANSI C, memory management, pointers, optimization methods, etc.)
+- 🌱 I’m currently learning ... deeper computer science fundamentals such (i.e. ANSI C, memory management, pointers, optimization methods, etc.).
 - 💞️ I’m looking to collaborate on ... anything involving surface, subsurface, spatial configurations, facility capacity issues, production forecasting, and more!
 - 📫 How to reach me ... "habrockc@aol.com" or via LinkedIn: https://www.linkedin.com/in/christopher-habrock-a02a1666 
 
